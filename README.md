@@ -1,4 +1,4 @@
-# MySQL-Data Constraints in MySQL
+# Data Constraints in MySQL
 
 **Overview**
       
